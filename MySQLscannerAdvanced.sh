@@ -1,4 +1,5 @@
-!# /bin/bash
+#!/usr/bin/env bash
+
 # Small script to specify and run nmap requests 
 
 echo "Enter the starting IP address: "

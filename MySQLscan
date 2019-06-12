@@ -1,0 +1,30 @@
+# Nmap 7.70 scan initiated Tue Jun 11 20:36:37 2019 as: nmap -sT -p 8080 -oG MySQLscan 192.168.192.1-
+Host: 192.168.192.1 ()	Status: Up
+Host: 192.168.192.1 ()	Ports: 8080/closed/tcp//http-proxy///
+Host: 192.168.192.55 ()	Status: Up
+Host: 192.168.192.55 ()	Ports: 8080/closed/tcp//http-proxy///
+Host: 192.168.192.57 ()	Status: Up
+Host: 192.168.192.57 ()	Ports: 8080/closed/tcp//http-proxy///
+Host: 192.168.192.58 ()	Status: Up
+Host: 192.168.192.58 ()	Ports: 8080/open/tcp//http-proxy///
+Host: 192.168.192.75 ()	Status: Up
+Host: 192.168.192.75 ()	Ports: 8080/closed/tcp//http-proxy///
+Host: 192.168.192.184 ()	Status: Up
+Host: 192.168.192.184 ()	Ports: 8080/open/tcp//http-proxy///
+Host: 192.168.192.211 ()	Status: Up
+Host: 192.168.192.211 ()	Ports: 8080/closed/tcp//http-proxy///
+Host: 192.168.192.236 ()	Status: Up
+Host: 192.168.192.236 ()	Ports: 8080/closed/tcp//http-proxy///
+Host: 192.168.192.240 ()	Status: Up
+Host: 192.168.192.240 ()	Ports: 8080/closed/tcp//http-proxy///
+Host: 192.168.192.242 ()	Status: Up
+Host: 192.168.192.242 ()	Ports: 8080/closed/tcp//http-proxy///
+Host: 192.168.192.248 ()	Status: Up
+Host: 192.168.192.248 ()	Ports: 8080/closed/tcp//http-proxy///
+Host: 192.168.192.249 ()	Status: Up
+Host: 192.168.192.249 ()	Ports: 8080/closed/tcp//http-proxy///
+Host: 192.168.192.253 ()	Status: Up
+Host: 192.168.192.253 ()	Ports: 8080/closed/tcp//http-proxy///
+Host: 192.168.192.254 ()	Status: Up
+Host: 192.168.192.254 ()	Ports: 8080/closed/tcp//http-proxy///
+# Nmap done at Tue Jun 11 20:36:46 2019 -- 255 IP addresses (14 hosts up) scanned in 9.35 seconds
